@@ -9,6 +9,7 @@ package GUI;
  *
  * @author Helena
  */
-public class MenuGUI {
+public class MenuGUI 
+{
     
 }
